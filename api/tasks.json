@@ -1,6 +1,8 @@
 {
-  "success": 20,
-  "failed": 30,
-  "waiting": 40,
-  "cancelled": 10
+  "tasks": {
+    "success": 20,
+    "failed": 30,
+    "waiting": 40,
+    "cancelled": 10
+  }
 }
