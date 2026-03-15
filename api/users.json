@@ -1,0 +1,10 @@
+[
+  { "name": "Alice", "phone": "1-477-935-8478 x6430", "sales": 30 },
+  { "name": "Bob", "phone": "493-170-9623 x156", "sales": 80 },
+  { "name": "Charlie", "phone": "(254)954-1289", "sales": 20 },
+  { "name": "Diana", "phone": "1-800-555-0199", "sales": 55 },
+  { "name": "Eve", "phone": "(312)555-7890 x42", "sales": 45 },
+  { "name": "Frank", "phone": "1-555-234-5678", "sales": 65 },
+  { "name": "Grace", "phone": "(415)555-3210", "sales": 90 },
+  { "name": "Hank", "phone": "1-800-555-4321 x100", "sales": 35 }
+]
